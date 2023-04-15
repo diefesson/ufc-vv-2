@@ -1,4 +1,4 @@
-package com.diefesson.vv2;
+package com.diefesson.vv2.q1;
 
 public class FahrenheitCelsiusConverter {
 

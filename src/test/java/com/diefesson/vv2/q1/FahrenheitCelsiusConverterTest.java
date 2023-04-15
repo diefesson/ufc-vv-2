@@ -1,4 +1,4 @@
-package com.diefesson.vv2;
+package com.diefesson.vv2.q1;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import org.junit.jupiter.api.Test;
